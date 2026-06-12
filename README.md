@@ -6,7 +6,7 @@
 
 ## Canlı Demo
 
-🔗 [washnova.com](#)
+🔗 [washnova.com](https://washnova.com)
 
 ---
 
